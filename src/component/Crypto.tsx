@@ -72,4 +72,5 @@ export type Crypto = {
   total_volume
   : 
   11896871338
+  owned: number;
   }
